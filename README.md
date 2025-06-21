@@ -1,16 +1,11 @@
-# storage_master
+# 收纳大师
 
-A new Flutter project.
+<img src="readme/1.png" alt="App Demo" width="200"/>
 
-## Getting Started
+**收纳大师** 是一款简洁高效的物品管理APP，支持物品**拍照、分类**、**批量录入**和数据**备份恢复**，完全本地不联网，**保护隐私**。让你的生活、办公物品井井有条，查找更方便。支持多平台，界面友好，操作简单，适合家庭和个人日常收纳管理。
 
-This project is a starting point for a Flutter application.
+当前版本：0.0.1
 
-A few resources to get you started if this is your first Flutter project:
+下版更新预告：AI辅助整理
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+欢迎体验和反馈！
